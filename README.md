@@ -19,8 +19,14 @@ A Power BI dashboard project analyzing multi-year sales trends, product category
 ## 🔍 Insights
 Uncover:
 - High-performing product categories and states
-- Customer purchase behavior and trends
+  Office Supplies is the top-selling product category ($2.08M), slightly ahead of Electronics ($2.06M) and
+  Furniture ($2.04M). In terms of geography, New York leads with $1.13M in sales, followed by Florida and
+  California (both around $1.09M), Texas ($1.01M), Illinois ($0.98M), and Ohio ($0.88M). This shows strong
+  product performance across multiple categories and high revenue concentration in key U.S. states.
 - Payment preference analytics
+  Debit cards are the most preferred payment method (21.78%), followed closely by credit cards (21.61%)
+  and UPI (21.11%). EMI (18.26%) and Cash on Delivery (17.25%) trail behind. This suggests a strong shift
+  toward digital and card-based payments, with COD becoming less dominant.
 
 ## 📜 License
 MIT License
