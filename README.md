@@ -14,7 +14,7 @@ A Power BI dashboard project analyzing multi-year sales trends, product category
 
 ## 
 <img width="554" alt="Image" src="https://github.com/user-attachments/assets/488f1092-42c0-4a9c-a618-ee0bbf91eec0" />
-<img width="551" alt="Image" src="https://github.com/user-attachments/assets/8fef5c4b-a021-4399-aa44-2fe2d5731536" />
+<img width="769" alt="Image" src="https://github.com/user-attachments/assets/ff42721c-fd60-4648-8025-1ed3f812e23e" />
 
 ## 🔍 Insights
 Uncover:
