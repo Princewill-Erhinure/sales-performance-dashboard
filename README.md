@@ -18,7 +18,7 @@ A Power BI dashboard project analyzing multi-year sales trends, product category
 
 ## 🔍 Insights
 Uncover:
-- High-performing product categories and states
+- High performing product categories and states
   Office Supplies is the top-selling product category ($2.08M), slightly ahead of Electronics ($2.06M) and
   Furniture ($2.04M). In terms of geography, New York leads with $1.13M in sales, followed by Florida and
   California (both around $1.09M), Texas ($1.01M), Illinois ($0.98M), and Ohio ($0.88M). This shows strong
